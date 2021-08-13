@@ -1,0 +1,29 @@
+.debut{
+    color: rgb(170, 170, 172)47, 47, 48);
+    text-align: center;
+}
+.ou{
+    color: blue;
+    text-align:center;
+}
+.i{
+    color: red ;
+    text-align: center;
+    
+}
+body{
+    background: greenyellow;
+}
+.V{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+    border: 20px blue double;
+}
